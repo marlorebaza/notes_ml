@@ -97,9 +97,24 @@ Matemáticamente, lo que ocurre es una **suma ponderada de vectores**. Al sumar 
 Al salir de la última capa, el vector de "banco" ya no es el vector genérico de la tabla inicial: se ha transformado en un **vector contextualizado** ubicado en la región de *entidades financieras*.
 
 
-Continuar con el curso de LLMs
 Gemini usado: La idea es ir preguntandole cualquier duda y pedirle un ejemplo para montarlo en codelabs
 https://gemini.google.com/app/402973e69b016dd2
+Continua implementando el ejemplos que te generó en su ultima respuesta en colab
+https://colab.research.google.com/drive/1n0M72D_N4t892UHCwHKGV74-KUnBK37A#scrollTo=ywAUZQSpCmiM
+
+Continuar con el curso de LLMs de plazi 
 
 Sigue viendo el video SOBRE OBsidian para llevar tus apuntes
 https://www.youtube.com/watch?v=bt0JKhHcvn4
+
+Revisa tbn este video sobre SDD para complementar lo aprendido en platzo
+https://www.youtube.com/watch?v=5HaOxAAA5qI
+
+https://colab.research.google.com/
+
+
+los 4 campos obligatorios: SO, Metadata, By pass, volumetria
+que la metadata corresponda a la descripcion
+que la AAP este dado de alta
+
+
