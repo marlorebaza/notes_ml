@@ -97,12 +97,28 @@ Matemáticamente, lo que ocurre es una **suma ponderada de vectores**. Al sumar 
 Al salir de la última capa, el vector de "banco" ya no es el vector genérico de la tabla inicial: se ha transformado en un **vector contextualizado** ubicado en la región de *entidades financieras*.
 
 
-Gemini usado: La idea es ir preguntandole cualquier duda y pedirle un ejemplo para montarlo en codelabs
-https://gemini.google.com/app/402973e69b016dd2
-Continua implementando el ejemplos que te generó en su ultima respuesta en colab
-https://colab.research.google.com/drive/1n0M72D_N4t892UHCwHKGV74-KUnBK37A#scrollTo=ywAUZQSpCmiM
+Dudas sobre matemática para LLM: https://gemini.google.com/app/402973e69b016dd2
+Demo en colab según gemini: https://colab.research.google.com/drive/1n0M72D_N4t892UHCwHKGV74-KUnBK37A#scrollTo=ywAUZQSpCmiM
+
+
+TO DO:
+Consulta a gemini esto y tomas apuntes:
+Actúa como experto ML engineer y explícame estos temas y cómo se relacionan:
+modelo supervisado
+regresion lineal
+regresion logistica
+arbol de decisión (random forest)
+maquinas de soporte vectorial
+redes neuronales
+Mi intención es tener la idea clara para tomar apuntes.
+Sigue con https://platzi.com/cursos/machine-learning/clustering-y-pca-sin-etiquetas-en-datos/
+
+Repasa matematica, calculo y estadisticas haciendo los cursos de platzi>
+- https://platzi.com/ruta/machine-learning-y-deep-learning/
+Luego desde tu cuenta banco accede a los cursos de coursera de mathematics for ML para repasar
 
 Continuar con el curso de LLMs de plazi 
+Realiza el curso nuevamente de mathematics for ML de coursera
 
 Sigue viendo el video SOBRE OBsidian para llevar tus apuntes
 https://www.youtube.com/watch?v=bt0JKhHcvn4
@@ -113,8 +129,6 @@ https://www.youtube.com/watch?v=5HaOxAAA5qI
 https://colab.research.google.com/
 
 
-los 4 campos obligatorios: SO, Metadata, By pass, volumetria
-que la metadata corresponda a la descripcion
-que la AAP este dado de alta
+
 
 
